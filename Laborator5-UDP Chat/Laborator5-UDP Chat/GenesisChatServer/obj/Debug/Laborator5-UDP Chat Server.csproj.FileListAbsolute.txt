@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Laborator5-UDP Chat\Laborator5-UDP Chat\GenesisChatServer\bin\Debug\GenesisChatServer.exe
+C:\Users\User\Desktop\Laborator5-UDP Chat\Laborator5-UDP Chat\GenesisChatServer\bin\Debug\GenesisChatServer.pdb
+C:\Users\User\Desktop\Laborator5-UDP Chat\Laborator5-UDP Chat\GenesisChatServer\bin\Debug\GenesisCore.dll
+C:\Users\User\Desktop\Laborator5-UDP Chat\Laborator5-UDP Chat\GenesisChatServer\bin\Debug\GenesisCore.pdb
+C:\Users\User\Desktop\Laborator5-UDP Chat\Laborator5-UDP Chat\GenesisChatServer\obj\Debug\Laborator5-UDP Chat Server.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Laborator5-UDP Chat\Laborator5-UDP Chat\GenesisChatServer\obj\Debug\GenesisChatServer.frmServer.resources
+C:\Users\User\Desktop\Laborator5-UDP Chat\Laborator5-UDP Chat\GenesisChatServer\obj\Debug\Laborator5-UDP Chat Server.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Laborator5-UDP Chat\Laborator5-UDP Chat\GenesisChatServer\obj\Debug\Laborator5-UDP Chat Server.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Laborator5-UDP Chat\Laborator5-UDP Chat\GenesisChatServer\obj\Debug\Laborator5-UDP Chat Server.csproj.CopyComplete
+C:\Users\User\Desktop\Laborator5-UDP Chat\Laborator5-UDP Chat\GenesisChatServer\obj\Debug\GenesisChatServer.exe
+C:\Users\User\Desktop\Laborator5-UDP Chat\Laborator5-UDP Chat\GenesisChatServer\obj\Debug\GenesisChatServer.pdb

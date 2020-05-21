@@ -1,0 +1,9 @@
+C:\Users\Andr3i\Desktop\Genesis\GenesisChatServer\bin\Debug\GenesisChatServer.exe
+C:\Users\Andr3i\Desktop\Genesis\GenesisChatServer\bin\Debug\GenesisChatServer.pdb
+C:\Users\Andr3i\Desktop\Genesis\GenesisChatServer\bin\Debug\GenesisCore.dll
+C:\Users\Andr3i\Desktop\Genesis\GenesisChatServer\bin\Debug\GenesisCore.pdb
+C:\Users\Andr3i\Desktop\Genesis\GenesisChatServer\obj\Debug\Laborator7-UDP Chat Server.csprojResolveAssemblyReference.cache
+C:\Users\Andr3i\Desktop\Genesis\GenesisChatServer\obj\Debug\GenesisChatServer.frmServer.resources
+C:\Users\Andr3i\Desktop\Genesis\GenesisChatServer\obj\Debug\Laborator7-UDP Chat Server.csproj.GenerateResource.Cache
+C:\Users\Andr3i\Desktop\Genesis\GenesisChatServer\obj\Debug\GenesisChatServer.exe
+C:\Users\Andr3i\Desktop\Genesis\GenesisChatServer\obj\Debug\GenesisChatServer.pdb

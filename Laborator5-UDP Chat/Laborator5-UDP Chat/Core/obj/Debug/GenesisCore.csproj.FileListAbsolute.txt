@@ -1,0 +1,5 @@
+C:\Users\Andr3i\Desktop\Genesis\Core\obj\Debug\GenesisCore.csprojResolveAssemblyReference.cache
+C:\Users\Andr3i\Desktop\Genesis\Core\obj\Debug\GenesisCore.dll
+C:\Users\Andr3i\Desktop\Genesis\Core\obj\Debug\GenesisCore.pdb
+C:\Users\Andr3i\Desktop\Genesis\Core\GenesisCore.dll
+C:\Users\Andr3i\Desktop\Genesis\Core\GenesisCore.pdb

@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\Laborator5-UDP Chat\Laborator5-UDP Chat\Core\obj\Debug\Laborator5-UDP Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Laborator5-UDP Chat\Laborator5-UDP Chat\Core\obj\Debug\GenesisCore.dll
+C:\Users\User\Desktop\Laborator5-UDP Chat\Laborator5-UDP Chat\Core\obj\Debug\GenesisCore.pdb
+C:\Users\User\Desktop\Laborator5-UDP Chat\Laborator5-UDP Chat\Core\GenesisCore.dll
+C:\Users\User\Desktop\Laborator5-UDP Chat\Laborator5-UDP Chat\Core\GenesisCore.pdb
